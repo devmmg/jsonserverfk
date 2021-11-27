@@ -10,8 +10,10 @@
     "name": "typicode"
   },
   "users": [
+    {
       "id":1,
       "name":"Dat anh Dev",
       "addr":"An Lao - Hai Phong"
+    }
   ]
 }
