@@ -15,5 +15,47 @@
       "name":"Dat anh Dev",
       "addr":"An Lao - Hai Phong"
     }
+  ],
+  "cart":[
+    {
+      "name":"Via kháng 902",
+      "qty":50,
+      "price":60000,
+      "status":1,
+      "feature":false,
+      "deal":0
+    },
+    {
+      "name":"Via kháng 901",
+      "qty":50,
+      "price":120000,
+      "status":1,
+      "feature":true,
+      "deal":5000
+    },
+    {
+      "name":"Via kháng 903",
+      "qty":50,
+      "price":60000,
+      "status":0,
+      "feature":false,
+      "deal":0
+    },
+    {
+      "name":"Via kháng 904",
+      "qty":50,
+      "price":150000,
+      "status":0,
+      "feature":false,
+      "deal":15000
+    },{
+      "name": "Via kháng 905",
+      "qty": 50,
+      "price": 100000,
+      "status": 1,
+      "feature": true,
+      "deal": 15000
+    }
+
   ]
 }
